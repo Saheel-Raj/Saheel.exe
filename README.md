@@ -1,5 +1,5 @@
 
-# CODIT - By Saheel
+# SAHEEL.EXE - By Saheel
 
 Made by me Saheel from Odisha, India. Currently in class 9 (2024 - 2025).
 ## FAQ
@@ -15,21 +15,4 @@ I'm a front-end developer... practing my web and app development and upload it i
 
 ## Updates!
 
-- Update projects section.
-
-- Add Learing section.
-
-- Fix gliches in tablet and mobile resolution.
-
-- Main color change and font change.
-
-- Auto theme change based on your device.
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/dZgYZZd/Screenshot-2025-02-01-120247.png)
-
-
-![App Screenshot](https://i.ibb.co/4GDwM8v/Screenshot-2025-02-01-120217.png)
-
+- New Look
